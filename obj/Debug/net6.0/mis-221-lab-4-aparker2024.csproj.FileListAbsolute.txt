@@ -1,0 +1,15 @@
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\obj\Debug\net6.0\mis-221-lab-4-aparker2024.csproj.AssemblyReference.cache
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\obj\Debug\net6.0\mis-221-lab-4-aparker2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\obj\Debug\net6.0\mis-221-lab-4-aparker2024.AssemblyInfoInputs.cache
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\obj\Debug\net6.0\mis-221-lab-4-aparker2024.AssemblyInfo.cs
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\obj\Debug\net6.0\mis-221-lab-4-aparker2024.csproj.CoreCompileInputs.cache
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\bin\Debug\net6.0\mis-221-lab-4-aparker2024.exe
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\bin\Debug\net6.0\mis-221-lab-4-aparker2024.deps.json
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\bin\Debug\net6.0\mis-221-lab-4-aparker2024.runtimeconfig.json
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\bin\Debug\net6.0\mis-221-lab-4-aparker2024.dll
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\bin\Debug\net6.0\mis-221-lab-4-aparker2024.pdb
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\obj\Debug\net6.0\mis-221-lab-4-aparker2024.dll
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\obj\Debug\net6.0\refint\mis-221-lab-4-aparker2024.dll
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\obj\Debug\net6.0\mis-221-lab-4-aparker2024.pdb
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\obj\Debug\net6.0\mis-221-lab-4-aparker2024.genruntimeconfig.cache
+C:\Users\apark\OneDrive - The University of Alabama\MIS221-spring23\Lab's\mis-221-lab-4-aparker2024\obj\Debug\net6.0\ref\mis-221-lab-4-aparker2024.dll
